@@ -1,0 +1,23 @@
+{
+  "name": "practice-1",
+  "version": "1.0.0",
+  "description": "Comparing algorithms processing large amounts of data!",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "homework",
+    "parallel",
+    "comparing"
+  ],
+  "author": "Alfonso Valencia Sandoval",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.7"
+  },
+  "dependencies": {
+    "chart.js": "^2.8.0"
+  }
+}
